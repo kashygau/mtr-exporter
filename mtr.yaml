@@ -1,0 +1,7 @@
+args: ["--tcp", "--port", "443"]
+cycles: 10
+hosts:
+  - name: "google.com"
+    alias: "google"
+  - name: "apple.com"
+    alias: "apple"
